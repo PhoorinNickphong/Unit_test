@@ -22,3 +22,14 @@ Ran 4 tests in 0.001s
 
 OK
 ```
+## Test staircase
+Result
+```
+test_given_4_with_hash_should_be_hh (tests.test_staircase.StaircaseTest.test_given_4_with_hash_should_be_hh) ... ok
+
+----------------------------------------------------------------------
+Ran 1 test in 0.001s
+
+OK
+```
+
