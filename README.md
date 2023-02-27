@@ -35,14 +35,13 @@ OK
 ## Test CatandMouse
 Result
 ```
-test_give_100_97_99_to_cat_and_mouse 
-(tests.test_cat_and_mouse.TestCatAndMouse.test_give_100_97_99_to_cat_and_mouse) ... ok
+test_give_100_97_99_to_cat_and_mouse (tests.test_cat_and_mouse.TestCatAndMouse.test_give_100_97_99_to_cat_and_mouse) ... ok
 test_give_1_2_3_to_cat_and_mouse (tests.test_cat_and_mouse.TestCatAndMouse.test_give_1_2_3_to_cat_and_mouse) ... ok
 test_give_1_3_2_to_cat_and_mouse (tests.test_cat_and_mouse.TestCatAndMouse.test_give_1_3_2_to_cat_and_mouse) ... ok
 test_give_99_100_101_to_cat_and_mouse (tests.test_cat_and_mouse.TestCatAndMouse.test_give_99_100_101_to_cat_and_mouse) ... ok
 
 ----------------------------------------------------------------------
-Ran 5 tests in 0.003s
+Ran 4 tests in 0.003s
 
 OK
 ```

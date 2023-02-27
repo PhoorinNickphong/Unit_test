@@ -1,6 +1,6 @@
-from program.staircase import staircase
-
+from program import staircase
 import unittest
+
 
 class StaircaseTest(unittest.TestCase):
     def test_given_4_with_hash_should_be_hh(self):
@@ -13,3 +13,4 @@ class StaircaseTest(unittest.TestCase):
         self.assertEqual(len(expected_result.split("\n")), n)
         self.assertIn(printed_sym, expected_result)
         self.assertEqual(result, expected_result)
+
