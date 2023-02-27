@@ -105,3 +105,23 @@ test_CaesarCipher\test_case.py      23      0   100%
 ----------------------------------------------------
 TOTAL                               33      0   100%
 ```
+## Test TwoCharacter
+Result
+```
+test_give_ab_to_two_character (test_two_character.TestTwoCharacter) ... ok
+test_give_asdcbsdcagfsdbgdfanfghbsfdab_to_two_character (test_two_character.TestTwoCharacter) ... ok
+test_give_asvkugfiugsalddlasguifgukvsa_to_two_character (test_two_character.TestTwoCharacter) ... ok
+test_give_beabeefeab_to_two_character (test_two_character.TestTwoCharacter) ... ok
+test_give_longtext_187_to_two_character (test_two_character.TestTwoCharacter) ... ok
+
+----------------------------------------------------------------------
+Ran 5 tests in 0.056s
+
+OK
+Name                          Stmts   Miss  Cover
+-------------------------------------------------
+program\two_character.py         10      0   100%
+tests\test_two_character.py      28      0   100%
+-------------------------------------------------
+TOTAL                            38      0   100%
+```
