@@ -45,3 +45,20 @@ Ran 4 tests in 0.003s
 
 OK
 ```
+# HackerRank
+## Test funny-string
+Result
+```
+test_zxca_in_FunnyString (test_case.TestFunnyString) ... ok
+
+----------------------------------------------------------------------
+Ran 5 tests in 0.005s
+
+OK
+Name                     Stmts   Miss  Cover
+--------------------------------------------
+program\FunnyString.py       8      0   100%
+tests\test_case.py          23      0   100%
+--------------------------------------------
+TOTAL                       31      0   100%
+```
