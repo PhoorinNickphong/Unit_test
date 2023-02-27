@@ -85,7 +85,7 @@ tests\test_Alternating-character.py      19      0   100%
 ---------------------------------------------------------
 TOTAL                                    25      0   100%                     
 ```
-## Test CaesarCipher
+## Test Caesar-Cipher
 Result
 ```
 test_abcdefghijklmnopqrstuvwxyz_in2_caesarcipher (test_case.TestCaesarCipher) ... ok
@@ -105,7 +105,7 @@ test_CaesarCipher\test_case.py      23      0   100%
 ----------------------------------------------------
 TOTAL                               33      0   100%
 ```
-## Test TwoCharacter
+## Test Two-Character
 Result
 ```
 test_give_ab_to_two_character (test_two_character.TestTwoCharacter) ... ok
@@ -124,4 +124,23 @@ program\two_character.py         10      0   100%
 tests\test_two_character.py      28      0   100%
 -------------------------------------------------
 TOTAL                            38      0   100%
+```
+## Test Grid-Challenge
+Result
+```
+test_give_exampleList_1_to_grid (test_grid_challenge.TestGridChallenge) ... ok
+test_give_exampleList_2_to_grid (test_grid_challenge.TestGridChallenge) ... ok
+test_give_exampleList_3_to_grid (test_grid_challenge.TestGridChallenge) ... ok
+test_give_exampleList_4_to_grid (test_grid_challenge.TestGridChallenge) ... ok
+
+----------------------------------------------------------------------
+Ran 4 tests in 0.006s
+
+OK
+Name                           Stmts   Miss  Cover
+--------------------------------------------------
+program\grid_challenge.py          7      0   100%
+tests\test_grid_challenge.py      23      0   100%
+--------------------------------------------------
+TOTAL                             30      0   100%
 ```
