@@ -3,9 +3,13 @@
 Result
 ```
 test_give_1_2_3_is_prime (tests.test_number_utils.PrimeListTest.test_give_1_2_3_is_prime) ... ok
+test_give_2_2_2_is_prime (tests.test_number_utils.PrimeListTest.test_give_2_2_2_is_prime) ... ok
+test_give_2_3_5_is_prime (tests.test_number_utils.PrimeListTest.test_give_2_3_5_is_prime) ... ok
+test_give_2_4_6_is_prime (tests.test_number_utils.PrimeListTest.test_give_2_4_6_is_prime) ... ok
+test_give_907_23_83_is_prime (tests.test_number_utils.PrimeListTest.test_give_907_23_83_is_prime) ... ok
 
 ----------------------------------------------------------------------
-Ran 1 test in 0.001s
+Ran 5 tests in 0.004s
 
 OK
 ```
