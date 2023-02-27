@@ -49,6 +49,10 @@ OK
 ## Test funny-string
 Result
 ```
+test_acxz_in_FunnyString (test_funny-string.TestFunnyString) ... ok
+test_bcxz_in_FunnyString (test_funny-string.TestFunnyString) ... ok
+test_lmnop_in_FunnyString (test_funny-string.TestFunnyString) ... ok
+test_loop_in_FunnyString (test_funny-string.TestFunnyString) ... ok
 test_zxca_in_FunnyString (test_case.TestFunnyString) ... ok
 
 ----------------------------------------------------------------------
@@ -61,4 +65,23 @@ program\FunnyString.py       8      0   100%
 tests\test_case.py          23      0   100%
 --------------------------------------------
 TOTAL                       31      0   100%
+```
+## Test Alternating-character
+Result
+```
+test_AAAA_in_alternating (test_Alternating-character.TestAlternatingCharacter) ... ok
+test_AAABBB_in_alternating (test_Alternating-character.TestAlternatingCharacter) ... ok
+test_ABABABAB_in_alternating (test_Alternating-character.TestAlternatingCharacter) ... ok
+test_BBBBB_in_alternating (test_Alternating-character.TestAlternatingCharacter) ... ok
+
+----------------------------------------------------------------------
+Ran 4 tests in 0.005s
+
+OK
+Name                                  Stmts   Miss  Cover
+---------------------------------------------------------
+program\AlternatingCharacter.py           6      0   100%
+tests\test_Alternating-character.py      19      0   100%
+---------------------------------------------------------
+TOTAL                                    25      0   100%                      31      0   100%
 ```
