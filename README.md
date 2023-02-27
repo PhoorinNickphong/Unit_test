@@ -83,5 +83,25 @@ Name                                  Stmts   Miss  Cover
 program\AlternatingCharacter.py           6      0   100%
 tests\test_Alternating-character.py      19      0   100%
 ---------------------------------------------------------
-TOTAL                                    25      0   100%                      31      0   100%
+TOTAL                                    25      0   100%                     
+```
+## Test CaesarCipher
+Result
+```
+test_abcdefghijklmnopqrstuvwxyz_in2_caesarcipher (test_case.TestCaesarCipher) ... ok
+test_abcdefghijklmnopqrstuvwxyz_in_caesarcipher (test_case.TestCaesarCipher) ... ok
+test_middle_Outz_in_caesarcipher (test_case.TestCaesarCipher) ... ok
+test_Never_fall_in_love_in_caesarcipher (test_case.TestCaesarCipher) ... ok
+test_XO2XO0_in_caesarcipher (test_case.TestCaesarCipher) ... ok
+
+----------------------------------------------------------------------
+Ran 5 tests in 0.004s
+
+OK
+Name                             Stmts   Miss  Cover
+----------------------------------------------------
+program\caesarCipher.py             10      0   100%
+test_CaesarCipher\test_case.py      23      0   100%
+----------------------------------------------------
+TOTAL                               33      0   100%
 ```
